@@ -22,12 +22,12 @@
 - Bug fix release based on native v6.0.LTS
 - Fixes issues 804 and 809
 
-## 6.0.0
+## 1.0.1
 - Feature release based on native v6.0
 - Renames StreamInformation.getFullCodec() method to getCodecLong()
 - Improves Statistics.getTime() method to return milliseconds as double
 
-## 6.0.0-LTS
+## 1.0.1-LTS
 - Feature release based on native v6.0.LTS
 - Renames StreamInformation.getFullCodec() method to getCodecLong()
 - Improves Statistics.getTime() method to return milliseconds as double
